@@ -7,4 +7,4 @@ A lightweight, daily-updated tracker of **competitions / challenges / grants / p
 - Each update includes: name, deadline (if found), prize/benefit, eligibility/notes, and link.
 
 ## Latest
-See `updates/`.
+- **[2026-02-20](updates/2026-02-20.md)** — 15 opps: GTC Golden Ticket (deadline TODAY), hackathons, pitch comps, EU grants
