@@ -7,4 +7,5 @@ A lightweight, daily-updated tracker of **competitions / challenges / grants / p
 - Each update includes: name, deadline (if found), prize/benefit, eligibility/notes, and link.
 
 ## Latest
+- **[2026-02-21](updates/2026-02-21.md)** — Refresh run: no net-new items passed hard filters (US-centered + travel reimbursement or fully-remote + deadline >=7 days)
 - **[2026-02-20](updates/2026-02-20.md)** — 17 opps: GTC Golden Ticket (deadline TODAY), Google.org AI Gov challenge (NEW), hackathons, pitch comps, EU grants
