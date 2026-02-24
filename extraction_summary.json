@@ -1,0 +1,49 @@
+{
+  "scanned": 12,
+  "fetched": 12,
+  "passed": 2,
+  "rejected": 10,
+  "degraded": true,
+  "rejection_reasons": [
+    {
+      "url": "https://hackillinois.org/travel",
+      "reason": "No undergraduate eligibility evidence"
+    },
+    {
+      "url": "https://tartanhacks.com/",
+      "reason": "No undergraduate eligibility evidence"
+    },
+    {
+      "url": "https://hackpsu.org/travel",
+      "reason": "No undergraduate eligibility evidence"
+    },
+    {
+      "url": "https://efest.biz/",
+      "reason": "No undergraduate eligibility evidence"
+    },
+    {
+      "url": "https://www.smeal.psu.edu/sustainability/land-grant-launch",
+      "reason": "No undergraduate eligibility evidence"
+    },
+    {
+      "url": "https://conrad.spacecenter.org/",
+      "reason": "No travel reimbursement or remote participation evidence"
+    },
+    {
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techrise-student-challenge-5/",
+      "reason": "No undergraduate eligibility evidence"
+    },
+    {
+      "url": "https://foundation.llvm.org/grants-scholarships",
+      "reason": "Not US-relevant"
+    },
+    {
+      "url": "https://oedit.colorado.gov/governors-tourism-conference-student-scholarship",
+      "reason": "No travel reimbursement or remote participation evidence"
+    },
+    {
+      "url": "https://women.acm.org/scholarships/",
+      "reason": "No travel reimbursement or remote participation evidence"
+    }
+  ]
+}
