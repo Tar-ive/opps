@@ -7,7 +7,7 @@ A lightweight, daily-updated tracker of **competitions / challenges / grants / p
 - Each update includes: name, deadline (if found), prize/benefit, eligibility/notes, and link.
 
 ## Latest
-- **[2026-02-24](updates/2026-02-24.md)** — 4 time-tight candidates (PyCon, ICLR, e-Fest, HackIllinois) — deadlines < 7 days; quality gate degraded
+- **[2026-02-24](updates/2026-02-24.md)** — Evening update: No new valid items found (deadlines passed for most AI conferences); time-tight candidates from earlier: ICLR, e-Fest (both March 1)
 - **[2026-02-23](updates/2026-02-23.md)** — Refresh run: 7 opps (Thiel, Emergent, Z Fellows, LA Hacks, 1517 Medici, Bitcamp, HackPSU) - Personalized for AI/Bio-Agents
 - **[2026-02-22](updates/2026-02-22.md)** — Refresh run: 8 opps (Gemini Live Agent, AI Dev Days, GSoC, DEBUT, America's Startup, YC S26) - Personalized for AI/Bio-Tech
 - **[2026-02-21](updates/2026-02-21.md)** — Refresh run: 11 opps (Agents & Robotics, nf-core Bio, World Bank, e-Fest, Arch Grants, Thiel)
