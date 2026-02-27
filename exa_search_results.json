@@ -1,1013 +1,1282 @@
-{
-  "AI inference conference student travel grant San Francisco 2026": {
-    "results": [
-      {
-        "id": "https://www.crescendo.ai/blog/ai-conferences-and-summits-in-san-francisco",
-        "title": "10 Best AI Conferences and Summits in San Francisco | 2026",
-        "url": "https://www.crescendo.ai/blog/ai-conferences-and-summits-in-san-francisco",
-        "publishedDate": "2026-02-13T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://artificialintelligence.unitedscientificgroup.org/",
-        "title": "Artificial Intelligence Conference | Machine Learning | AIM 2026",
-        "url": "https://artificialintelligence.unitedscientificgroup.org/",
-        "author": null
-      },
-      {
-        "id": "https://almcorp.com/blog/ai-conferences-march-2026-complete-guide/",
-        "title": "Top 12 AI Conferences March 2026: Dates, Pricing & Registration",
-        "url": "https://almcorp.com/blog/ai-conferences-march-2026-complete-guide/",
-        "publishedDate": "2026-02-18T14:00:43.559Z",
-        "author": null
-      },
-      {
-        "id": "https://www.datacamp.com/blog/top-ai-conferences",
-        "title": "Top 10 AI Conferences for 2025",
-        "url": "https://www.datacamp.com/blog/top-ai-conferences",
-        "author": null
-      },
-      {
-        "id": "https://www.allstarsit.com/blog/the-list-of-ai-events-2026-you-shouldnt-miss",
-        "title": "The list of AI events 2026 you shouldn't miss - ALLSTARSIT",
-        "url": "https://www.allstarsit.com/blog/the-list-of-ai-events-2026-you-shouldnt-miss",
-        "author": null
-      },
-      {
-        "id": "https://aicouncil.com/sf-2026",
-        "title": "AI Council 2026 San Francisco, CA",
-        "url": "https://aicouncil.com/sf-2026",
-        "author": ""
-      },
-      {
-        "id": "https://colmweb.org/",
-        "title": "COLM 2025",
-        "url": "https://colmweb.org/",
-        "author": null
-      },
-      {
-        "id": "https://us.pycon.org/2026/attend/faq/",
-        "title": "Travel Grants FAQ\n            \n            \n            \n            - PyCon US 2026",
-        "url": "https://us.pycon.org/2026/attend/faq/",
-        "author": ""
-      },
-      {
-        "id": "https://aias2025.org/aias-2025-travel-grants/",
-        "title": "AIAS 2025 Travel Grants - AIAS 2025 - AI for Accelerated Research Symposium 2025",
-        "url": "https://aias2025.org/aias-2025-travel-grants/",
-        "publishedDate": "2025-09-21T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://iclr.cc/Conferences/2026/FinancialAssistance",
-        "title": "ICLR 2026 Financial Assistance and Volunteering",
-        "url": "https://iclr.cc/Conferences/2026/FinancialAssistance",
-        "author": ""
-      },
-      {
-        "id": "https://icml.cc/Conferences/2026/FinancialAid",
-        "title": "2026 Financial Aid",
-        "url": "https://icml.cc/Conferences/2026/FinancialAid",
-        "author": ""
-      },
-      {
-        "id": "https://iclr.cc/Conferences/2025/FinancialAssistance",
-        "title": "ICLR 2025 Financial Assistance",
-        "url": "https://iclr.cc/Conferences/2025/FinancialAssistance",
-        "author": ""
-      },
-      {
-        "id": "https://neurips.cc/Conferences/2025/FinancialAssistance",
-        "title": "NeurIPS 2025 Volunteer and Financial Assistance",
-        "url": "https://neurips.cc/Conferences/2025/FinancialAssistance",
-        "author": ""
-      },
-      {
-        "id": "https://nxtai-conference.com/",
-        "title": "Nxt AI-2026 Conference",
-        "url": "https://nxtai-conference.com/",
-        "author": null
-      },
-      {
-        "id": "https://www.getmaxim.ai/articles/the-best-ai-conferences-to-attend-in-2026/",
-        "title": "The Best AI Conferences to Attend in 2026 - Maxim AI",
-        "url": "https://www.getmaxim.ai/articles/the-best-ai-conferences-to-attend-in-2026/",
-        "publishedDate": "2026-01-15T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://aiconference.com/",
-        "title": "The AI Conference 2025: Shaping the future of AI",
-        "url": "https://aiconference.com/",
-        "author": null
-      },
-      {
-        "id": "http://datacouncil.ai/",
-        "title": "Engineering the Future of AI",
-        "url": "http://datacouncil.ai/",
-        "author": ""
-      },
-      {
-        "id": "http://www.gresearch.com/news/g-research-january-2024-grant-winners/",
-        "title": "G-Research January 2024 Grant Winners Announced",
-        "url": "http://www.gresearch.com/news/g-research-january-2024-grant-winners/",
-        "publishedDate": "2024-01-31T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.sigweb.org/toc/www24.html",
-        "title": "WWW '24: Proceedings of the ACM on Web Conference 2024",
-        "url": "https://www.sigweb.org/toc/www24.html",
-        "author": ""
-      },
-      {
-        "id": "https://icwsm.org/2022/index.html/",
-        "title": "ICWSM-2022",
-        "url": "https://icwsm.org/2022/index.html/",
-        "author": ""
-      }
-    ],
-    "count": 20
+[
+  {
+    "id": "https://www.aimlsystems.org/2026/travel-grant/",
+    "title": "Travel Grant | The Sixth International Conference on AI ML ...",
+    "url": "https://www.aimlsystems.org/2026/travel-grant/",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
   },
-  "AI/ML infrastructure meetup Bay Area student scholarship": {
-    "results": [
-      {
-        "id": "https://inspirit-sf-24.paperform.co/",
-        "title": "Inspirit AI Scholars in San Francisco - 2024",
-        "url": "https://inspirit-sf-24.paperform.co/",
-        "author": ""
-      },
-      {
-        "id": "https://www.facebook.com/groups/britishsummerschools/posts/762754173097944/",
-        "title": "Now Accepting Applications for the AI Scholars Program! Are you ...",
-        "url": "https://www.facebook.com/groups/britishsummerschools/posts/762754173097944/",
-        "publishedDate": "2025-07-28T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://www.facebook.com/groups/fmi.su/posts/3303723293136343/",
-        "title": "February 19 Redis is hosting a Redis for AI Workshop on - Facebook",
-        "url": "https://www.facebook.com/groups/fmi.su/posts/3303723293136343/",
-        "publishedDate": "2026-01-27T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://oscampus.org/services/",
-        "title": "Program - oscV2.hostingersite.com",
-        "url": "https://oscampus.org/services/",
-        "publishedDate": "2025-05-09T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.alluxio.io/blog/ai-ml-infra-meetup-recap",
-        "title": "AI/ML Infra Meetup - Highlights & Key Takeaways - Alluxio",
-        "url": "https://www.alluxio.io/blog/ai-ml-infra-meetup-recap",
-        "publishedDate": "2024-07-10T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://www.meetup.com/sf-bay-area-ai-meetup-group/",
-        "title": "SF Bay Area AI Meetup Group",
-        "url": "https://www.meetup.com/sf-bay-area-ai-meetup-group/",
-        "author": null
-      },
-      {
-        "id": "https://scouts.yutori.com/31bf9cae-7fbd-48e0-99d3-340559f5e428",
-        "title": "Bay Area AI meetups and talks | Yutori",
-        "url": "https://scouts.yutori.com/31bf9cae-7fbd-48e0-99d3-340559f5e428",
-        "author": null
-      },
-      {
-        "id": "https://cerebralvalley.ai/events",
-        "title": "Events - Cerebral Valley",
-        "url": "https://cerebralvalley.ai/events",
-        "author": null
-      },
-      {
-        "id": "https://odsc.ai/west/",
-        "title": "ODSC AI West 2026 - California",
-        "url": "https://odsc.ai/west/",
-        "author": null
-      },
-      {
-        "id": "http://baylearn.org/",
-        "title": "BayLearn - Machine Learning Symposium - 2025",
-        "url": "http://baylearn.org/",
-        "author": ""
-      },
-      {
-        "id": "https://ai.bythebay.io/",
-        "title": "AI Conference | AI By the Bay – Oakland, CA",
-        "url": "https://ai.bythebay.io/",
-        "author": ""
-      },
-      {
-        "id": "https://www.crackedsf.com/",
-        "title": "CrackedSF - Monthly Meetups for AI/ML Engineers",
-        "url": "https://www.crackedsf.com/",
-        "author": ""
-      },
-      {
-        "id": "https://www.meetup.com/sf-bay-area-agile-ai-ml-meetup/",
-        "title": "DataScience.Salon SF Bay Area Agile AI & ML Meetup | Meetup",
-        "url": "https://www.meetup.com/sf-bay-area-agile-ai-ml-meetup/",
-        "author": ""
-      },
-      {
-        "id": "https://aistudentcollective.org/",
-        "title": "AI Student Collective",
-        "url": "https://aistudentcollective.org/",
-        "author": ""
-      },
-      {
-        "id": "https://www.bayareascience.org/calendar/index.php?eID=34347",
-        "title": "Independent Community-rooted AI Research",
-        "url": "https://www.bayareascience.org/calendar/index.php?eID=34347",
-        "publishedDate": "2025-04-27T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.anyscale.com/events/bay-area-community-ray-meetup",
-        "title": "Bay Area Community Ray Meetup",
-        "url": "https://www.anyscale.com/events/bay-area-community-ray-meetup",
-        "publishedDate": "2024-10-01T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://aicouncil.com/bay-2025",
-        "title": "NO BS DATA CONF :}",
-        "url": "https://aicouncil.com/bay-2025",
-        "author": ""
-      },
-      {
-        "id": "https://www.meetup.com/ml-ai-learning-circle/",
-        "title": "AI & ML Learning Circle",
-        "url": "https://www.meetup.com/ml-ai-learning-circle/",
-        "author": ""
-      },
-      {
-        "id": "https://odsc.com/california/hackathon/?__hsfp=2324370431&__hssc=39712252.1.1751846400309&__hstc=39712252.0ec627e769dcbdb88f399df47a2589d5.1751846400306.1751846400307.1751846400308.1",
-        "title": "ODSC AI West 2026 - California",
-        "url": "https://odsc.com/california/hackathon/?__hsfp=2324370431&__hssc=39712252.1.1751846400309&__hstc=39712252.0ec627e769dcbdb88f399df47a2589d5.1751846400306.1751846400307.1751846400308.1",
-        "publishedDate": "2025-07-09T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://events.linuxfoundation.org/open-source-ai-week",
-        "title": "Open Source AI Week | LF Events",
-        "url": "https://events.linuxfoundation.org/open-source-ai-week",
-        "publishedDate": "2025-10-18T00:00:00.000Z",
-        "author": ""
-      }
-    ],
-    "count": 20
+  {
+    "id": "https://iclr.cc/Conferences/2026/FinancialAssistance",
+    "title": "ICLR 2026 Financial Assistance",
+    "url": "https://iclr.cc/Conferences/2026/FinancialAssistance",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
   },
-  "inference startup hiring student internship travel reimbursement": {
-    "results": [
-      {
-        "id": "https://job-boards.greenhouse.io/inflectionai/jobs/4440856006?gh_jid=4440856006",
-        "title": "Inflection AI Summer Internship Program",
-        "url": "https://job-boards.greenhouse.io/inflectionai/jobs/4440856006?gh_jid=4440856006",
-        "publishedDate": "2025-02-25T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://wellfound.com/jobs/3310956-computer-vision-behavioral-signal-analysis-intern-travel-hospitality-focus-clone",
-        "title": "Computer Vision & Behavioral Signal Analysis Intern (Travel + ...",
-        "url": "https://wellfound.com/jobs/3310956-computer-vision-behavioral-signal-analysis-intern-travel-hospitality-focus-clone",
-        "author": null
-      },
-      {
-        "id": "https://www.ziprecruiter.com/Jobs/Summer-Internship-Ai-Startup/-in-Orlando,FL",
-        "title": "$13-$26/hr Summer Internship Ai Startup Jobs in Orlando, FL",
-        "url": "https://www.ziprecruiter.com/Jobs/Summer-Internship-Ai-Startup/-in-Orlando,FL",
-        "author": null
-      },
-      {
-        "id": "https://www.tesla.com/careers/search/job/internship-software-engineer-ai-inference-summer-2026-263205",
-        "title": "Internship, Software Engineer, AI Inference (Summer 2026) - Tesla",
-        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-ai-inference-summer-2026-263205",
-        "author": null
-      },
-      {
-        "id": "https://www.linkedin.com/jobs/view/research-intern-inference-summer-2026-at-together-ai-4330397401",
-        "title": "Together AI hiring Research Intern, Inference (Summer 2026) in San ...",
-        "url": "https://www.linkedin.com/jobs/view/research-intern-inference-summer-2026-at-together-ai-4330397401",
-        "author": null
-      },
-      {
-        "id": "https://jobs.weekday.works/inflection-ai-summer-2026-technical-internship",
-        "title": "Inflection AI hiring for Summer 2026 Technical Internship",
-        "url": "https://jobs.weekday.works/inflection-ai-summer-2026-technical-internship",
-        "author": ""
-      },
-      {
-        "id": "https://talent.emcap.com/companies/together-ai-2/jobs/64659745-research-intern-inference-summer-2026",
-        "title": "Research Intern, Inference (Summer 2026) @ Together AI | Emergence Capital Job Board",
-        "url": "https://talent.emcap.com/companies/together-ai-2/jobs/64659745-research-intern-inference-summer-2026",
-        "author": ""
-      },
-      {
-        "id": "https://exa.ai/library/company/inferencesearch",
-        "title": "Inference Search",
-        "url": "https://inferencesearch.ai/",
-        "publishedDate": "2026-01-24T00:00:00.000Z",
-        "author": "Exa",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQH7toixFh93yA/company-logo_200_200/B4EZm4mDesIoAI-/0/1759738607982/inferencesearch_logo?e=2147483647&v=beta&t=jWNgmww8PE_LGsLMEAcmBI12URIChHqoiUS_5ENwiAo",
-        "entities": [
-          {
-            "id": "https://exa.ai/library/company/inferencesearch",
-            "type": "company",
-            "version": 1,
-            "properties": {
-              "name": "Inference Search",
-              "foundedYear": 2025,
-              "description": "Inference Search partners with hedge funds and deep tech startups to hire the engineers and leaders who build and scale intelligence; the systems that make AI work in the real world.\n\nWe specialise in AI Infrastructure, Systems Engineering, and Leadership Search, helping companies bridge the gap between research and real world deployment.",
-              "workforce": {
-                "total": 3
-              },
-              "headquarters": null,
-              "financials": null,
-              "webTraffic": null
-            }
-          }
-        ]
-      },
-      {
-        "id": "https://exa.ai/library/company/cambridge-inference",
-        "title": "Cambridge Inference",
-        "url": "https://cambridgeinference.com/",
-        "publishedDate": "2026-01-23T00:00:00.000Z",
-        "author": "Exa",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQE5t6I6bnLQSQ/company-logo_200_200/company-logo_200_200/0/1730211354779/cambridge_inference_logo?e=2147483647&v=beta&t=ustFFtEroJFK344_5LyXlVgMvOTlWbI3K-7gyGDDoRY",
-        "entities": [
-          {
-            "id": "https://exa.ai/library/company/cambridge-inference",
-            "type": "company",
-            "version": 1,
-            "properties": {
-              "name": "Cambridge Inference",
-              "foundedYear": null,
-              "description": "Cambridge Inference is a UK tech startup developing enterprise AI control systems, safety tools, and sovereign AI capabilities.",
-              "workforce": {
-                "total": 3
-              },
-              "headquarters": null,
-              "financials": null,
-              "webTraffic": null
-            }
-          }
-        ]
-      },
-      {
-        "id": "https://prosple.com/ai-internships",
-        "title": "Top AI Internships in USA",
-        "url": "https://prosple.com/ai-internships",
-        "author": null
-      },
-      {
-        "id": "https://www.reddit.com/r/f1visa/comments/1om4641/startup_offered_unpaid_ai_engineer_internship/",
-        "title": "Startup offered unpaid AI Engineer internship (pre-funding) — F-1 ...",
-        "url": "https://www.reddit.com/r/f1visa/comments/1om4641/startup_offered_unpaid_ai_engineer_internship/",
-        "publishedDate": "2025-11-02T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://cleanlab.ai/careers/internship/",
-        "title": "Cleanlab - Internships",
-        "url": "https://cleanlab.ai/careers/internship/",
-        "author": null
-      },
-      {
-        "id": "https://www.indeed.com/q-internship-ai-startup-jobs.html",
-        "title": "Internship Ai Startup Jobs, Employment",
-        "url": "https://www.indeed.com/q-internship-ai-startup-jobs.html",
-        "author": null
-      },
-      {
-        "id": "https://foundersnetwork.com/blog/how-to-compensate-startup-interns/",
-        "title": "How To Compensate Startup Interns | Founders Network",
-        "url": "https://foundersnetwork.com/blog/how-to-compensate-startup-interns/",
-        "author": ""
-      },
-      {
-        "id": "https://exa.ai/library/company/inference-ai-academy",
-        "title": "Inference.ai Academy",
-        "url": "https://academy.inference.ai/",
-        "publishedDate": "2026-01-21T00:00:00.000Z",
-        "author": "Exa",
-        "image": "https://media.licdn.com/dms/image/v2/D560BAQHWGTUk1sXxHA/company-logo_200_200/B56ZZgExC4HAAM-/0/1745368584798?e=2147483647&v=beta&t=cruSF2sGlCeYyaOPIrNb_VoISbExHgGfF4UlDoEoSAQ",
-        "entities": [
-          {
-            "id": "https://exa.ai/library/company/inference-ai-academy",
-            "type": "company",
-            "version": 1,
-            "properties": {
-              "name": "Inference.ai Academy",
-              "foundedYear": null,
-              "description": "Build real-world AI projects, get mentored by FAANG engineers, and train on cutting-edge infrastructure. Designed for students breaking into AI.",
-              "workforce": {
-                "total": 3
-              },
-              "headquarters": {
-                "address": null,
-                "city": "Palo Alto",
-                "postalCode": null,
-                "country": "United States"
-              },
-              "financials": null,
-              "webTraffic": null
-            }
-          }
-        ]
-      },
-      {
-        "id": "https://exa.ai/library/company/internup-org",
-        "title": "InternUp",
-        "url": "https://internup.org/",
-        "publishedDate": "2026-01-21T00:00:00.000Z",
-        "author": "Exa",
-        "image": "https://media.licdn.com/dms/image/v2/D560BAQHc2fyU4q3XKw/company-logo_200_200/B56ZfFGve7HUAQ-/0/1751358569025/internup_org_logo?e=2147483647&v=beta&t=QwOLE9g9EqbEN4IoVND603AtXm9VGF9YVOgJw1tPI4s",
-        "entities": [
-          {
-            "id": "https://exa.ai/library/company/internup-org",
-            "type": "company",
-            "version": 1,
-            "properties": {
-              "name": "InternUp",
-              "foundedYear": 2024,
-              "description": "🌟 Empowering the Future of HRTech and Job-Seeking AI\n\nAt InternUp, we’re not just building a product; we’re building a game-changing AI engine to revolutionize how the world approaches job-seeking and talent-recruiting. Our solution is designed to empower HRTech innovators and career-focused AI tools, enabling them to deliver smarter, more personalized experiences for their users.\n\nOur clients include:\n\nTech Companies: Elevating recruitment and hiring with cutting-edge AI solutions.\nUniversity Career Centers: Enhancing student success with intelligent career tools.\nIndividual Career Coaches and Agencies: Equipping them with scalable, impactful AI-driven resources.\nWe are a team of deeply committed innovators who share a unified vision of creating a smarter, more empathetic future for job-seekers and recruiters alike. Together, we’ve successfully launched our MVP and secured a $300K Angel round to fuel our growth. But what sets us apart is our strong bond as a team—we’re driven by mutual trust, relentless curiosity, and an unwavering commitment to solving the challenges of modern career navigation.\n\nOur vision is simple yet profound: job-seeking and recruiting may be rational processes, but the emotional toll they take is deeply human. That’s why we’re dedicated to building the world’s most powerful AI coaching GPT engine, designed to empower recruiters, job-seekers, and career service providers with tools that are as intuitive as they are transformative.\n\n🌍 Together, we’re redefining what’s possible in HRTech and career services. If you’re a talented innovator or a visionary investor, we’d love to connect. Let’s shape the future of work—together. 🚀✨",
-              "workforce": {
-                "total": 7
-              },
-              "headquarters": {
-                "address": "555 Pierce Street; Apt 329",
-                "city": "Albany",
-                "postalCode": "94706",
-                "country": "United States"
-              },
-              "financials": null,
-              "webTraffic": {
-                "visitsMonthly": 631
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "https://joinrise.co/jobs/k/inference-optimization",
-        "title": "8 Inference Optimization  Jobs Hiring Now (February 2026) - Rise",
-        "url": "https://joinrise.co/jobs/k/inference-optimization",
-        "author": ""
-      },
-      {
-        "id": "https://aersys.io/intern/",
-        "title": "Summer Internships - Aersys Inc.",
-        "url": "https://aersys.io/intern/",
-        "publishedDate": "2020-06-17T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://groq.humain.ai/careers/",
-        "title": "Groq Hires Exceptional Talent",
-        "url": "https://groq.humain.ai/careers/",
-        "publishedDate": "2025-03-12T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://job-boards.greenhouse.io/perplexityai/jobs/4735785007",
-        "title": "",
-        "url": "https://job-boards.greenhouse.io/perplexityai/jobs/4735785007",
-        "author": ""
-      }
-    ],
-    "count": 20
+  {
+    "id": "https://www.ieeesmc.org/cai-2026/travel-grants/",
+    "title": "IEEE CAI 2026 Travel Grants",
+    "url": "https://www.ieeesmc.org/cai-2026/travel-grants/",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
   },
-  "undergraduate hackathon travel reimbursement 2026": {
-    "results": [
-      {
-        "id": "https://tartanhacks.com/",
-        "title": "TartanHacks 2026",
-        "url": "https://tartanhacks.com/",
-        "author": null
-      },
-      {
-        "id": "https://hackillinois.org/",
-        "title": "HackIllinois 2026",
-        "url": "https://hackillinois.org/",
-        "author": null
-      },
-      {
-        "id": "https://hackpsu.org/travel",
-        "title": "HackPSU Spring 2026 - Penn State's Premier Hackathon",
-        "url": "https://hackpsu.org/travel",
-        "author": null
-      },
-      {
-        "id": "https://www.instagram.com/p/DO_n_hmDiKl/",
-        "title": "hackutd - Instagram",
-        "url": "https://www.instagram.com/p/DO_n_hmDiKl/",
-        "publishedDate": "2025-09-24T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://github.com/PoojaB26/Hackathons-Around-The-World",
-        "title": "PoojaB26/Hackathons-Around-The-World - GitHub",
-        "url": "https://github.com/PoojaB26/Hackathons-Around-The-World",
-        "author": null
-      },
-      {
-        "id": "https://sbhacks.com/",
-        "title": "SB Hacks XII",
-        "url": "https://sbhacks.com/",
-        "author": null
-      },
-      {
-        "id": "https://www.business.uc.edu/about/centers-partnerships/entrepreneurship/resources-for-all/hackathon-travel-funds.html",
-        "title": "Hackathon Travel Funds - Resources for All | University of Cincinnati",
-        "url": "https://www.business.uc.edu/about/centers-partnerships/entrepreneurship/resources-for-all/hackathon-travel-funds.html",
-        "author": null
-      },
-      {
-        "id": "https://www.bu.edu/spark/resources/travel-fund/",
-        "title": "Ignite Hackathon & Conference Travel FAQs",
-        "url": "https://www.bu.edu/spark/resources/travel-fund/",
-        "publishedDate": "2024-10-07T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://hackcon.mlh.io/faq",
-        "title": "MLH Hackcon",
-        "url": "https://hackcon.mlh.io/faq",
-        "author": ""
-      },
-      {
-        "id": "https://mlh.io/faq/",
-        "title": "Frequently Asked Questions",
-        "url": "https://mlh.io/faq/",
-        "publishedDate": "2025-01-01T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://9.ugahacks.com/faq",
-        "title": "UGAHacks 9",
-        "url": "https://9.ugahacks.com/faq",
-        "author": ""
-      },
-      {
-        "id": "https://fullyhacks.acmcsuf.com/",
-        "title": "FullyHacks 2025",
-        "url": "https://fullyhacks.acmcsuf.com/",
-        "author": ""
-      },
-      {
-        "id": "https://www.vandyhacks.com/upcoming",
-        "title": "VandyHacks",
-        "url": "https://www.vandyhacks.com/upcoming",
-        "author": ""
-      },
-      {
-        "id": "https://www3.cs.stonybrook.edu/~wics/hopperhacks/2026/",
-        "title": "HopperHacks 2026 - Stony Brook Computer Science",
-        "url": "https://www3.cs.stonybrook.edu/~wics/hopperhacks/2026/",
-        "author": null
-      },
-      {
-        "id": "https://finhack-2.devpost.com/rules",
-        "title": "FinHack 2: A weekend full of finance-themed hacks! - Devpost",
-        "url": "https://finhack-2.devpost.com/rules",
-        "author": ""
-      },
-      {
-        "id": "https://hackillinois.org/travel",
-        "title": "HackIllinois 2026",
-        "url": "https://hackillinois.org/travel",
-        "author": ""
-      },
-      {
-        "id": "https://2025.hackillinois.org/travel",
-        "title": "HackIllinois",
-        "url": "https://2025.hackillinois.org/travel",
-        "author": ""
-      },
-      {
-        "id": "https://2024.hackillinois.org/travel",
-        "title": "HackIllinois",
-        "url": "https://2024.hackillinois.org/travel",
-        "author": ""
-      },
-      {
-        "id": "https://2016.hackdavis.io/views/travel.html",
-        "title": "HackDavis 2016 Travel",
-        "url": "https://2016.hackdavis.io/views/travel.html",
-        "author": ""
-      },
-      {
-        "id": "https://guide.hackutd.co/dayof/travel-reimbursement",
-        "title": "Travel Reimbursement | HackUTD Tech Guide",
-        "url": "https://guide.hackutd.co/dayof/travel-reimbursement",
-        "author": "HackUTD Team"
-      }
-    ],
-    "count": 20
+  {
+    "id": "https://www.flairs-39.info/student-travel-grant",
+    "title": "FLAIRS-39 - Student Travel Grant",
+    "url": "https://www.flairs-39.info/student-travel-grant",
+    "publishedDate": "2026-02-20T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
   },
-  "student startup competition travel stipend US": {
-    "results": [
-      {
-        "id": "https://www.smeal.psu.edu/sustainability/land-grant-launch",
-        "title": "2026 Land Grant Startup Launch Competition",
-        "url": "https://www.smeal.psu.edu/sustainability/land-grant-launch",
-        "author": null
-      },
-      {
-        "id": "https://america250.org/americas-startup/faqs/",
-        "title": "FAQs - America250",
-        "url": "https://america250.org/americas-startup/faqs/",
-        "author": null
-      },
-      {
-        "id": "https://www.terry.uga.edu/entrepreneurship/next-top-entrepreneur/",
-        "title": "Next Top Entrepreneur Competition - Terry College of Business - UGA",
-        "url": "https://www.terry.uga.edu/entrepreneurship/next-top-entrepreneur/",
-        "author": null
-      },
-      {
-        "id": "https://my.reviewr.com/s2/site/eFest2026?redir=micrositedesign",
-        "title": "Microsite e-Fest 2026",
-        "url": "https://my.reviewr.com/s2/site/eFest2026?redir=micrositedesign",
-        "author": ""
-      },
-      {
-        "id": "https://www.bu.edu/spark/resources/travel-fund/",
-        "title": "Ignite Hackathon & Conference Travel FAQs",
-        "url": "https://www.bu.edu/spark/resources/travel-fund/",
-        "publishedDate": "2024-10-07T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.csun.edu/center-for-social-and-technology-entrepreneurship/competitions-events/sunstone-csu-startup-launch",
-        "title": "Sunstone CSU Startup Launch | CSU Northridge",
-        "url": "https://www.csun.edu/center-for-social-and-technology-entrepreneurship/competitions-events/sunstone-csu-startup-launch",
-        "author": null
-      },
-      {
-        "id": "https://blueoceancompetition.org/",
-        "title": "Blue Ocean Student Entrepreneur Competition",
-        "url": "https://blueoceancompetition.org/",
-        "author": null
-      },
-      {
-        "id": "https://finance.yahoo.com/news/america-250-national-america-startup-215320161.html",
-        "title": "America 250: National America's Startup competition seeks ...",
-        "url": "https://finance.yahoo.com/news/america-250-national-america-startup-215320161.html",
-        "publishedDate": "2026-02-19T14:00:52.879Z",
-        "author": null
-      },
-      {
-        "id": "https://www.ktbs.com/community/america-s-startup-launches-competition-to-compete-for-25-000-in-funding/article_a9b85283-2ad9-49e6-b618-4c6052a32fb3.html",
-        "title": "America's Startup launches competition to compete for ... - KTBS",
-        "url": "https://www.ktbs.com/community/america-s-startup-launches-competition-to-compete-for-25-000-in-funding/article_a9b85283-2ad9-49e6-b618-4c6052a32fb3.html",
-        "publishedDate": "2026-02-18T14:00:52.879Z",
-        "author": null
-      },
-      {
-        "id": "https://www.kellogg.northwestern.edu/academics-research/social-impact-sustainability/funding/",
-        "title": "Student funding, stipends + awards | Kellogg School of Management",
-        "url": "https://www.kellogg.northwestern.edu/academics-research/social-impact-sustainability/funding/",
-        "publishedDate": "2025-12-20T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.geron.org/Membership/Member-Center/Awards/Student-Travel-Stipends-",
-        "title": "Student Travel Stipends - Gerontological Society of America",
-        "url": "https://www.geron.org/Membership/Member-Center/Awards/Student-Travel-Stipends-",
-        "author": null
-      },
-      {
-        "id": "https://efest.biz/compete/benefits",
-        "title": "e-Fest 2026 starts in",
-        "url": "https://efest.biz/compete/benefits",
-        "publishedDate": "2022-09-08T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://efest.biz/compete/rules",
-        "title": "Rules & Eligibility",
-        "url": "https://efest.biz/compete/rules",
-        "publishedDate": "2022-09-08T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://efest.biz/compete",
-        "title": "The Competitions",
-        "url": "https://efest.biz/compete",
-        "publishedDate": "2021-10-15T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://efest.biz/faqs",
-        "title": "e-Fest 2026 starts in",
-        "url": "https://efest.biz/faqs",
-        "publishedDate": "2017-03-20T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.koreasociety.org/corporate/1964-startup-scene-entrepreneurs-of-tomorrow-2025-student-ideation-competition",
-        "title": "Startup Scene: Entrepreneurs of Tomorrow 2025 Student Ideation Competition",
-        "url": "https://www.koreasociety.org/corporate/1964-startup-scene-entrepreneurs-of-tomorrow-2025-student-ideation-competition",
-        "author": "admin"
-      },
-      {
-        "id": "https://www.energy.gov/technologytransitions/energytech-university-prize",
-        "title": "EnergyTech University Prize",
-        "url": "https://www.energy.gov/technologytransitions/energytech-university-prize",
-        "author": ""
-      },
-      {
-        "id": "https://southdakotagiantvision.com/faq/",
-        "title": "FAQ - South Dakota Giant Vision",
-        "url": "https://southdakotagiantvision.com/faq/",
-        "publishedDate": "2022-07-29T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.aaccinnovationchallenge.com/eligibility-rules/",
-        "title": "",
-        "url": "https://www.aaccinnovationchallenge.com/eligibility-rules/",
-        "publishedDate": "2020-01-07T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://globalstudentstartup.org/",
-        "title": "Global Student Startup Competition – @ Asian Leadership Conference",
-        "url": "https://globalstudentstartup.org/",
-        "author": ""
-      }
-    ],
-    "count": 20
+  {
+    "id": "https://hessian.ai/female-student-travel-award-2026/",
+    "title": "Female Student Travel Award 2026",
+    "url": "https://hessian.ai/female-student-travel-award-2026/",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
   },
-  "AI conference volunteer program student benefits": {
-    "results": [
-      {
-        "id": "https://www.ai4development.ai/student-volunteers",
-        "title": "Student Volunteers - DevelopMetrics - AI for Development (AI4D) 2025",
-        "url": "https://www.ai4development.ai/student-volunteers",
-        "author": null
-      },
-      {
-        "id": "https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/",
-        "title": "AAAI-26 Student Scholar Volunteer Program",
-        "url": "https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/",
-        "author": null
-      },
-      {
-        "id": "https://humanrobotinteraction.org/2026/student-volunteer-program",
-        "title": "Student Volunteer Program – HRI 2026",
-        "url": "https://humanrobotinteraction.org/2026/student-volunteer-program",
-        "publishedDate": "2026-01-20T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://newyork.theaisummit.com/about/frequently-asked-questions",
-        "title": "Frequently Asked Questions about The AI Summit New York 2025",
-        "url": "https://newyork.theaisummit.com/about/frequently-asked-questions",
-        "author": null
-      },
-      {
-        "id": "https://conf.researchr.org/track/icse-2026/icse-2026-student-volunteers",
-        "title": "ICSE 2026 - Student Volunteers",
-        "url": "https://conf.researchr.org/track/icse-2026/icse-2026-student-volunteers",
-        "author": null
-      },
-      {
-        "id": "https://neurips.cc/Conferences/2025/FinancialAssistance",
-        "title": "NeurIPS 2025 Financial Assistance",
-        "url": "https://neurips.cc/Conferences/2025/FinancialAssistance",
-        "author": null
-      },
-      {
-        "id": "https://ai.qconferences.com/volunteers",
-        "title": "Volunteering at QCon AI New York",
-        "url": "https://ai.qconferences.com/volunteers",
-        "author": null
-      },
-      {
-        "id": "https://cscw.acm.org/2024/index.php/attend/student-volunteer/",
-        "title": "STUDENT VOLUNTEER PROGRAM - CSCW 2024",
-        "url": "https://cscw.acm.org/2024/index.php/attend/student-volunteer/",
-        "publishedDate": "2023-03-18T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://2024.aclweb.org/calls/volunteers",
-        "title": "Student Volunteer Program",
-        "url": "https://2024.aclweb.org/calls/volunteers",
-        "publishedDate": "2024-07-08T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://2025.aclweb.org/calls/volunteers/",
-        "title": "Volunteers",
-        "url": "https://2025.aclweb.org/calls/volunteers/",
-        "author": ""
-      },
-      {
-        "id": "https://facctconference.org/2024/cfv",
-        "title": "ACM FAccT 2024 Call for Volunteers",
-        "url": "https://facctconference.org/2024/cfv",
-        "publishedDate": "2025-07-02T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://2026.eacl.org/calls/student-volunteers/",
-        "title": "Call for Student Volunteers -",
-        "url": "https://2026.eacl.org/calls/student-volunteers/",
-        "author": ""
-      },
-      {
-        "id": "https://iclr.cc/Conferences/2026/FinancialAssistance",
-        "title": "ICLR 2026 Financial Assistance and Volunteering",
-        "url": "https://iclr.cc/Conferences/2026/FinancialAssistance",
-        "author": ""
-      },
-      {
-        "id": "https://aaai.org/conference/aaai/aaai-25/student-scholarhip-volunteer-program/",
-        "title": "AAAI-25 Student Scholar & Volunteer Program",
-        "url": "https://aaai.org/conference/aaai/aaai-25/student-scholarhip-volunteer-program/",
-        "publishedDate": "2024-10-24T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://ai-for-edu.github.io/workshop_cai2024.html",
-        "title": "CAI'24 AI4EDU: AI for Education Workshop",
-        "url": "https://ai-for-edu.github.io/workshop_cai2024.html",
-        "author": ""
-      },
-      {
-        "id": "https://aaai.org/aaai-24-conference/aaai-24-student-scholarhip-volunteer-program",
-        "title": "AAAI-24 Student Scholar, Diversity and Inclusion Scholar, & Volunteer Program - AAAI",
-        "url": "https://aaai.org/aaai-24-conference/aaai-24-student-scholarhip-volunteer-program",
-        "publishedDate": "2023-12-05T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://aaai-23.aaai.org/student-scholar-and-volunteer-program/",
-        "title": "Student Scholar and Volunteer Program | AAAI 2023 Conference",
-        "url": "https://aaai-23.aaai.org/student-scholar-and-volunteer-program/",
-        "author": ""
-      },
-      {
-        "id": "http://www.ijcai.org/past/ijcai-03/800/html/supportaaai.html",
-        "title": "AAAI Student Scholarship and Volunteer Program - IJCAI",
-        "url": "http://www.ijcai.org/past/ijcai-03/800/html/supportaaai.html",
-        "author": null
-      },
-      {
-        "id": "https://cscw.acm.org/2023/index.php/student-volunteer/",
-        "title": "STUDENT VOLUNTEER PROGRAM – CSCW 2023",
-        "url": "https://cscw.acm.org/2023/index.php/student-volunteer/",
-        "author": ""
-      },
-      {
-        "id": "https://2023.aclweb.org/calls/volunteers",
-        "title": "Student Volunteer Program",
-        "url": "https://2023.aclweb.org/calls/volunteers",
-        "publishedDate": "2024-01-01T00:00:00.000Z",
-        "author": ""
-      }
-    ],
-    "count": 20
+  {
+    "id": "https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/",
+    "title": "AAAI-26 Student Scholar Volunteer Program",
+    "url": "https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
   },
-  "fully funded student research conference travel award AI": {
-    "results": [
-      {
-        "id": "https://scholarshipsandgrants.us/list/major/ai-ml/",
-        "title": "AI/ML Scholarships 2026 — 20+ Verified Fellowships, Grants, and ...",
-        "url": "https://scholarshipsandgrants.us/list/major/ai-ml/",
-        "author": null
-      },
-      {
-        "id": "https://www.flairs-39.info/student-travel-grant",
-        "title": "FLAIRS-39 - Student Travel Grant",
-        "url": "https://www.flairs-39.info/student-travel-grant",
-        "publishedDate": "2026-02-20T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.jumptrading.com/conference-travel-grant",
-        "title": "Conference Travel Grant - Jump Trading",
-        "url": "https://www.jumptrading.com/conference-travel-grant",
-        "author": null
-      },
-      {
-        "id": "https://icaif25.org/qrt-student-travel-awards/",
-        "title": "QRT Student Travel Awards",
-        "url": "https://icaif25.org/qrt-student-travel-awards/",
-        "publishedDate": "2025-09-23T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://siam.org/conferences/conference-support/siam-student-travel-awards",
-        "title": "SIAM Student Travel Awards",
-        "url": "https://siam.org/conferences/conference-support/siam-student-travel-awards",
-        "publishedDate": "2025-05-11T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://www.aimlsystems.org/2026/travel-grant/",
-        "title": "Travel Grant | The Sixth International Conference on AI ML Systems",
-        "url": "https://www.aimlsystems.org/2026/travel-grant/",
-        "author": null
-      },
-      {
-        "id": "https://bsn.embs.org/2025/contributors/awards/",
-        "title": "Student Travel Awards",
-        "url": "https://bsn.embs.org/2025/contributors/awards/",
-        "author": null
-      },
-      {
-        "id": "https://cis.ieee.org/activities/membership-activities/travel-grants",
-        "title": "Conference Participation and Travel Grants - IEEE Computational ...",
-        "url": "https://cis.ieee.org/activities/membership-activities/travel-grants",
-        "author": null
-      },
-      {
-        "id": "https://sigai.acm.org/main/students-support/",
-        "title": "Student Support - ACM SIGAI",
-        "url": "https://sigai.acm.org/main/students-support/",
-        "author": null
-      },
-      {
-        "id": "https://hessian.ai/female-student-travel-award-2025/",
-        "title": "Female Student Travel Award 2025 | hessian.AI",
-        "url": "https://hessian.ai/female-student-travel-award-2025/",
-        "publishedDate": "2025-02-26T00:00:00.000Z",
-        "author": null
-      },
-      {
-        "id": "https://undergradresearch.illinois.edu/students/funding.html",
-        "title": "Funding - Illinois Office of Undergraduate Research",
-        "url": "https://undergradresearch.illinois.edu/students/funding.html",
-        "author": null
-      },
-      {
-        "id": "https://poultryscience.org/opportunities/student-resources/the-hatchery/student-travel-awards",
-        "title": "Travel Awards - The Poultry Science Association",
-        "url": "https://poultryscience.org/opportunities/student-resources/the-hatchery/student-travel-awards",
-        "author": ""
-      },
-      {
-        "id": "https://wsdm-conference.org/2024/nsf-student-travel-awards",
-        "title": "NSF Student Travel Awards – The 17th ACM International WSDM Conference",
-        "url": "https://wsdm-conference.org/2024/nsf-student-travel-awards",
-        "publishedDate": "2023-12-07T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://icaps24.icaps-conference.org/attending/students",
-        "title": "Student Support - ICAPS 2024",
-        "url": "https://icaps24.icaps-conference.org/attending/students",
-        "publishedDate": "2025-01-01T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://kdd2024.kdd.org/call-for-student-travel-award-applications",
-        "title": "Call for Student Travel Award Applications",
-        "url": "https://kdd2024.kdd.org/call-for-student-travel-award-applications",
-        "publishedDate": "2024-05-08T00:00:00.000Z",
-        "author": ""
-      },
-      {
-        "id": "https://grantway.induct.net/grant/university-of-guelph/oac-international-travel-grants/4O6JZEQwk3OX2RWyVA8oM1Gz",
-        "title": "University of Guelph - OAC International Travel Grants",
-        "url": "https://grantway.induct.net/grant/university-of-guelph/oac-international-travel-grants/4O6JZEQwk3OX2RWyVA8oM1Gz",
-        "author": ""
-      },
-      {
-        "id": "https://ui.adsabs.harvard.edu/abs/2023nsf....2333695Z/abstract",
-        "title": "",
-        "url": "https://ui.adsabs.harvard.edu/abs/2023nsf....2333695Z/abstract",
-        "author": ""
-      },
-      {
-        "id": "https://cdh.stanford.edu/industry-affiliates/student-trainee-travel-award",
-        "title": "Student & Trainee Travel Award | Stanford Center for Digital Health",
-        "url": "https://cdh.stanford.edu/industry-affiliates/student-trainee-travel-award",
-        "author": null
-      },
-      {
-        "id": "https://blackinrobotics.org/bir-student-conference-travel",
-        "title": "BiR Student Conference Travel — blackinrobotics",
-        "url": "https://blackinrobotics.org/bir-student-conference-travel",
-        "author": ""
-      },
-      {
-        "id": "https://www.latinxinai.org/cvpr-2024",
-        "title": "CVPR 2024 — LatinX in AI Computer Vision — LXAI",
-        "url": "https://www.latinxinai.org/cvpr-2024",
-        "author": ""
-      }
-    ],
-    "count": 20
+  {
+    "id": "https://scholarshipsandgrants.us/list/major/ai-ml/",
+    "title": "AI/ML Scholarships 2026 — 20+ Verified Fellowships ...",
+    "url": "https://scholarshipsandgrants.us/list/major/ai-ml/",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "http://infocom2026.ieee-infocom.org/ieee-infocom-2026-81/pages/student-travel-grant",
+    "title": "Student Travel Grant | IEEE International Conference on Computer Communications (INFOCOM) 2026",
+    "url": "http://infocom2026.ieee-infocom.org/ieee-infocom-2026-81/pages/student-travel-grant",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://iui.acm.org/2026/student-grants/",
+    "title": "Student Grants - IUI | 2026 - ACM",
+    "url": "https://iui.acm.org/2026/student-grants/",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://ismr.gatech.edu/2026/travel_awards",
+    "title": "2026 Travel Awards | ISMR Conference Site",
+    "url": "https://ismr.gatech.edu/2026/travel_awards",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.jumptrading.com/conference-travel-grant",
+    "title": "Conference Travel Grant",
+    "url": "https://www.jumptrading.com/conference-travel-grant",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://neural.memberclicks.net/ijcnn-2026-travel-grants-program",
+    "title": "IJCNN 2026 Travel Grants Program",
+    "url": "https://neural.memberclicks.net/ijcnn-2026-travel-grants-program",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://dipsa-qub.github.io/ICS2026-webpage/students-early-career/travel-grants.html",
+    "title": "Student and Early Career Travel Grants",
+    "url": "https://dipsa-qub.github.io/ICS2026-webpage/students-early-career/travel-grants.html",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://acc2026.a2c2.org/students/student-travel-grants",
+    "title": "Student Travel Grants",
+    "url": "https://acc2026.a2c2.org/students/student-travel-grants",
+    "publishedDate": "2024-09-27T00:00:00.000Z",
+    "author": "Conference Catalysts, LLC.",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.theninthsemester.com/blog/qj7dfnz29mbcdnjmdtdrkoq4myfoqi",
+    "title": "4 Fully Funded Tech Conference Scholarships for Students & Early-Career Professionals (2025–2026) — The Ninth Semester | The one they didn't warn you about",
+    "url": "https://www.theninthsemester.com/blog/qj7dfnz29mbcdnjmdtdrkoq4myfoqi",
+    "publishedDate": "2025-09-06T00:00:00.000Z",
+    "author": "Written By  Jade Walters",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://acm.org/conferences/data-science-summit/data-science-summit-student-travel-grants",
+    "title": "Student Travel Grants",
+    "url": "https://acm.org/conferences/data-science-summit/data-science-summit-student-travel-grants",
+    "publishedDate": "2025-01-01T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://mlafrica.org/",
+    "title": "AMLD Africa 2026 |",
+    "url": "https://mlafrica.org/",
+    "publishedDate": "2025-09-17T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.aies-conference.com/2024/call-for-student-travel-awards/",
+    "title": "Call for Student Travel Awards – Aies Conference",
+    "url": "https://www.aies-conference.com/2024/call-for-student-travel-awards/",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://humanrobotinteraction.org/2026/ieee-ras-travel-support/",
+    "title": "IEEE-RAS Travel Support – HRI 2026",
+    "url": "https://humanrobotinteraction.org/2026/ieee-ras-travel-support/",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.advance-africa.com/AIDS-Conference-Scholarships-and-Travel-Awards.html",
+    "title": "AIDS Conference Scholarships and Travel Awards 2026 ▷ Travel Grants",
+    "url": "https://www.advance-africa.com/AIDS-Conference-Scholarships-and-Travel-Awards.html",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.cag-acg.ca/students",
+    "title": "STUDENTS | cag-acg",
+    "url": "https://www.cag-acg.ca/students",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://isca-speech.org/Grants",
+    "title": "ISCA - Grants",
+    "url": "https://isca-speech.org/Grants",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.europeancetaceansociety.eu/student-volunteering",
+    "title": "Student volunteering | European Cetacean Society",
+    "url": "https://www.europeancetaceansociety.eu/student-volunteering",
+    "author": "",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://www.edtechinnovationhub.com/news/openai-opens-chatgpt-lab-applications-for-next-us-and-canada-student-cohort",
+    "title": "OpenAI expands ChatGPT Lab to 70+ campuses",
+    "url": "https://www.edtechinnovationhub.com/news/openai-opens-chatgpt-lab-applications-for-next-us-and-canada-student-cohort",
+    "publishedDate": "2026-02-26T00:01:16.000Z",
+    "author": "Written By Emma Thompson",
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://eu.36kr.com/en/p/3698417555976071",
+    "title": "China's AI Establishes World-Class Academic Event WAICA after Eight Years of Development",
+    "url": "https://eu.36kr.com/en/p/3698417555976071",
+    "publishedDate": "2026-02-25T08:13:40.000Z",
+    "author": null,
+    "query": "AI conference student travel grant 2026"
+  },
+  {
+    "id": "https://tartanhacks.com/",
+    "title": "TartanHacks 2026",
+    "url": "https://tartanhacks.com/",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hackillinois.org/travel",
+    "title": "HackIllinois 2026",
+    "url": "https://hackillinois.org/travel",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://www.business.uc.edu/about/centers-partnerships/entrepreneurship/resources-for-all/hackathon-travel-funds.html",
+    "title": "Hackathon Travel Funds - Resources for All",
+    "url": "https://www.business.uc.edu/about/centers-partnerships/entrepreneurship/resources-for-all/hackathon-travel-funds.html",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hackillinois.org/",
+    "title": "HackIllinois 2026",
+    "url": "https://hackillinois.org/",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://sbhacks.com/",
+    "title": "SB Hacks XII",
+    "url": "https://sbhacks.com/",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hack.caltech.edu/",
+    "title": "Hacktech - Caltech's Premier Hackathon",
+    "url": "https://hack.caltech.edu/",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://www.cuahsi.org/workshops/hydrolearn-ciroh-may-june-2026-workshop-and-hackathon",
+    "title": "HydroLearn-CIROH May/June 2026 Workshop ...",
+    "url": "https://www.cuahsi.org/workshops/hydrolearn-ciroh-may-june-2026-workshop-and-hackathon",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hacu.net/programs/capital-one-launchpad-program/",
+    "title": "Capital One Launchpad Program - HACU",
+    "url": "https://hacu.net/programs/capital-one-launchpad-program/",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://guide.hackutd.co/dayof/travel-reimbursement",
+    "title": "Travel Reimbursement | HackUTD Tech Guide",
+    "url": "https://guide.hackutd.co/dayof/travel-reimbursement",
+    "author": "HackUTD Team",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://logolife.org/post/top-10-high-school-hackathons-for-ivy-computer-science-2026",
+    "title": "Top 10 High School Hackathons for Ivy Computer Science ...",
+    "url": "https://logolife.org/post/top-10-high-school-hackathons-for-ivy-computer-science-2026",
+    "author": null,
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "http://infocom2026.ieee-infocom.org/ieee-infocom-2026-81/pages/student-travel-grant",
+    "title": "Student Travel Grant | IEEE International Conference on Computer Communications (INFOCOM) 2026",
+    "url": "http://infocom2026.ieee-infocom.org/ieee-infocom-2026-81/pages/student-travel-grant",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://2016.hackdavis.io/views/travel.html",
+    "title": "HackDavis 2016 Travel",
+    "url": "https://2016.hackdavis.io/views/travel.html",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://iclr.cc/Conferences/2026/FinancialAssistance",
+    "title": "ICLR 2026 Financial Assistance",
+    "url": "https://iclr.cc/Conferences/2026/FinancialAssistance",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://www.mitenergyhack.org/faqs",
+    "title": "FAQs — MIT Energy & Climate Hack",
+    "url": "https://www.mitenergyhack.org/faqs",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://xy.vandyhacks.org/upcoming",
+    "title": "VandyHacks",
+    "url": "https://xy.vandyhacks.org/upcoming",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://guide.mlh.io/general-information/event-logistics/transportation-or-travel-plans",
+    "title": "Transportation/Travel Plans",
+    "url": "https://guide.mlh.io/general-information/event-logistics/transportation-or-travel-plans",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://fsu-daart.smapply.us/prog/sga_student_department_of_academic_affairs_research_travel_grant_",
+    "title": "SGA Student Department of Academic Affairs Research Travel Grant  - Department of Academic Affairs' Research Travel Grant",
+    "url": "https://fsu-daart.smapply.us/prog/sga_student_department_of_academic_affairs_research_travel_grant_",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://us.pycon.org/2026/attend/faq/",
+    "title": "Travel Grants FAQ\n            \n            \n            \n            - PyCon US 2026",
+    "url": "https://us.pycon.org/2026/attend/faq/",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://thelanguageflagship.tech/2024-hackathon-logistics/",
+    "title": "2024 hackathon logistics | Tech Center",
+    "url": "https://thelanguageflagship.tech/2024-hackathon-logistics/",
+    "publishedDate": "2024-03-07T00:00:00.000Z",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hackillinois.org/prizes",
+    "title": "HackIllinois 2026",
+    "url": "https://hackillinois.org/prizes",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hackthe6ix.com/",
+    "title": "Hack the 6ix 2025",
+    "url": "https://hackthe6ix.com/",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://yquantum.info/faqs",
+    "title": "FAQs — YQuantum",
+    "url": "https://yquantum.info/faqs",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hacktrent.ca/",
+    "title": "HackTrent",
+    "url": "https://hacktrent.ca/",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://hackathon.cornell.edu/faq",
+    "title": "FAQ | Cornell Hackathons",
+    "url": "https://hackathon.cornell.edu/faq",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://athenahacks.github.io/AthenaHacks2024/",
+    "title": "AthenaHacks 2024",
+    "url": "https://athenahacks.github.io/AthenaHacks2024/",
+    "author": "",
+    "query": "hackathon travel reimbursement college student 2026"
+  },
+  {
+    "id": "https://www.smeal.psu.edu/sustainability/land-grant-launch",
+    "title": "2026 Land Grant Startup Launch Competition",
+    "url": "https://www.smeal.psu.edu/sustainability/land-grant-launch",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.unh.edu/ecenter/students/student-competitions",
+    "title": "Student Competitions | UNH Entrepreneurship Center",
+    "url": "https://www.unh.edu/ecenter/students/student-competitions",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://apnews.com/press-release/ein-presswire-newsmatics/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit-750ebaadb398e55690ed16713cec474f",
+    "title": "IOScholarships Launches Travel Award to Send Student to Inaugural STEAM Innovation Summit",
+    "url": "https://apnews.com/press-release/ein-presswire-newsmatics/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit-750ebaadb398e55690ed16713cec474f",
+    "publishedDate": "2026-02-26T16:32:04.000Z",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.shreveporttimes.com/press-release/story/37194/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit/",
+    "title": "IOScholarships Launches Travel Award to Send Student to ...",
+    "url": "https://www.shreveporttimes.com/press-release/story/37194/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit/",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.instagram.com/p/DVJ0AoJkkaM/",
+    "title": "Submissions are open for America's Startup (America250's national ...",
+    "url": "https://www.instagram.com/p/DVJ0AoJkkaM/",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.nigeriastartupact.ng/enugu-campus-hackathon-awards-16500-grants-to-youth-startups/",
+    "title": "Enugu Campus Hackathon Awards $16,500 Grants to Youth Startups",
+    "url": "https://www.nigeriastartupact.ng/enugu-campus-hackathon-awards-16500-grants-to-youth-startups/",
+    "publishedDate": "2026-02-23T14:20:27.000Z",
+    "author": "Nigeria Startup News",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://business.uc.edu/about/centers-partnerships/entrepreneurship/resources-for-all/hackathon-travel-funds.html",
+    "title": "Hackathon Travel Funds",
+    "url": "https://business.uc.edu/about/centers-partnerships/entrepreneurship/resources-for-all/hackathon-travel-funds.html",
+    "publishedDate": "2025-02-24T00:00:00.000Z",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://case.edu/entrepreneurship/funding/think-do-thrive-grant-program/morgan-startup-grant",
+    "title": "Morgan Startup Grant | Veale Institute for Entrepreneurship",
+    "url": "https://case.edu/entrepreneurship/funding/think-do-thrive-grant-program/morgan-startup-grant",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://scienmag.com/brain-healthy-campus-collaborative-unveils-inaugural-winner-of-the-prestigious-brain-health-prize/",
+    "title": "Brain Healthy Campus Collaborative Unveils Inaugural Winner of the",
+    "url": "https://scienmag.com/brain-healthy-campus-collaborative-unveils-inaugural-winner-of-the-prestigious-brain-health-prize/",
+    "publishedDate": "2026-02-25T01:20:35.000Z",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.globenewswire.com/news-release/2026/02/24/3243948/0/en/The-Stuart-Piltch-Scholarship-for-Entrepreneurs-Announces-2026-Call-for-Undergraduate-Innovators.html",
+    "title": "The Stuart Piltch Scholarship for Entrepreneurs Announces 2026 Call for Undergraduate Innovators",
+    "url": "https://www.globenewswire.com/news-release/2026/02/24/3243948/0/en/The-Stuart-Piltch-Scholarship-for-Entrepreneurs-Announces-2026-Call-for-Undergraduate-Innovators.html",
+    "publishedDate": "2026-02-24T18:25:42.000Z",
+    "author": "Stuart Piltch Scholarship",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://ecenter.msstate.edu/startupsummit/",
+    "title": "Startup Summit 2026 - MSU Center for Entrepreneurship & Outreach",
+    "url": "https://ecenter.msstate.edu/startupsummit/",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://america250.org/americas-startup/",
+    "title": "America's Startup - America250",
+    "url": "https://america250.org/americas-startup/",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://innovate.uoregon.edu/funding-and-competitions",
+    "title": "Funding and Competitions - Innovation and Entrepreneurship",
+    "url": "https://innovate.uoregon.edu/funding-and-competitions",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://thekoffman.com/funding-and-support/",
+    "title": "Funding and Support | Koffman Incubator | Binghamton N.Y.",
+    "url": "https://thekoffman.com/funding-and-support/",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://hackillinois.org/travel",
+    "title": "HackIllinois 2026",
+    "url": "https://hackillinois.org/travel",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.bu.edu/spark/resources/travel-fund/",
+    "title": "Ignite Hackathon & Conference Travel FAQs",
+    "url": "https://www.bu.edu/spark/resources/travel-fund/",
+    "publishedDate": "2024-10-07T00:00:00.000Z",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://jindal.utdallas.edu/news/new-startup-award-program-at-jindal-advances-student-entrepreneurship/",
+    "title": "New Startup Award Program at Jindal Advances Student ...",
+    "url": "https://jindal.utdallas.edu/news/new-startup-award-program-at-jindal-advances-student-entrepreneurship/",
+    "author": null,
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://efest.biz/compete/benefits",
+    "title": "e-Fest 2026 starts in",
+    "url": "https://efest.biz/compete/benefits",
+    "publishedDate": "2022-09-08T00:00:00.000Z",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://asu.io/rules/",
+    "title": "Rules and guidelines - ASU Innovation Open",
+    "url": "https://asu.io/rules/",
+    "publishedDate": "2023-09-06T00:00:00.000Z",
+    "author": "Sean Manget",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://www.mit100k.org/eligibility-rules",
+    "title": "Rules — MIT $100K",
+    "url": "https://www.mit100k.org/eligibility-rules",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://southdakotagiantvision.com/faq/",
+    "title": "FAQ - South Dakota Giant Vision",
+    "url": "https://southdakotagiantvision.com/faq/",
+    "publishedDate": "2022-07-29T00:00:00.000Z",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://nyusternberkleycenter.com/about-us/faqs/",
+    "title": "FAQs - Berkley Center for Entrepreneurship",
+    "url": "https://nyusternberkleycenter.com/about-us/faqs/",
+    "publishedDate": "2020-09-14T00:00:00.000Z",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://2024.hackillinois.org/travel",
+    "title": "HackIllinois",
+    "url": "https://2024.hackillinois.org/travel",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://my.reviewr.com/s2/site/eFest2026?redir=micrositedesign",
+    "title": "Microsite e-Fest 2026",
+    "url": "https://my.reviewr.com/s2/site/eFest2026?redir=micrositedesign",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://inventureprize.gatech.edu/rules-eligibility",
+    "title": "Rules & Eligibility",
+    "url": "https://inventureprize.gatech.edu/rules-eligibility",
+    "author": "",
+    "query": "student startup competition travel stipend"
+  },
+  {
+    "id": "https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/",
+    "title": "AAAI-26 Student Scholar Volunteer Program",
+    "url": "https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://neurips.cc/Conferences/2025/FinancialAssistance",
+    "title": "NeurIPS 2025 Volunteer and Financial Assistance",
+    "url": "https://neurips.cc/Conferences/2025/FinancialAssistance",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://sigai.acm.org/main/students-support/",
+    "title": "Student Support - ACM SIGAI",
+    "url": "https://sigai.acm.org/main/students-support/",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://humanrobotinteraction.org/2026/student-volunteer-program",
+    "title": "Student Volunteer Program – HRI 2026",
+    "url": "https://humanrobotinteraction.org/2026/student-volunteer-program",
+    "publishedDate": "2026-01-20T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://boston.qcon.ai/volunteers",
+    "title": "Volunteering at QCon AI Boston",
+    "url": "https://boston.qcon.ai/volunteers",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://aied2024.cesar.school/diversity-and-inclusion/volunteer-program",
+    "title": "Volunteer Program - AIED 2024",
+    "url": "https://aied2024.cesar.school/diversity-and-inclusion/volunteer-program",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://newyork.theaisummit.com/about/frequently-asked-questions",
+    "title": "Frequently Asked Questions about The AI Summit New York 2025",
+    "url": "https://newyork.theaisummit.com/about/frequently-asked-questions",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://2024.aclweb.org/calls/volunteers",
+    "title": "Student Volunteer Program",
+    "url": "https://2024.aclweb.org/calls/volunteers",
+    "publishedDate": "2024-07-08T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://ineedmesomeai.com/international-joint-conference-on-artificial-intelligence-advancing-responsible-ai/",
+    "title": "International Joint Conference on Artificial Intelligence: Advancing Responsible AI – I Need Me Some A.I.",
+    "url": "https://ineedmesomeai.com/international-joint-conference-on-artificial-intelligence-advancing-responsible-ai/",
+    "author": "by:  Michelle Hatley",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://aaai-23.aaai.org/student-scholar-and-volunteer-program/",
+    "title": "Student Scholar and Volunteer Program | AAAI 2023 Conference",
+    "url": "https://aaai-23.aaai.org/student-scholar-and-volunteer-program/",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://aaai.org/aaai-24-conference/aaai-24-student-scholarhip-volunteer-program",
+    "title": "AAAI-24 Student Scholar, Diversity and Inclusion Scholar, & Volunteer Program - AAAI",
+    "url": "https://aaai.org/aaai-24-conference/aaai-24-student-scholarhip-volunteer-program",
+    "publishedDate": "2023-12-05T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://iclr.cc/Conferences/2026/FinancialAssistance",
+    "title": "ICLR 2026 Financial Assistance and Volunteering",
+    "url": "https://iclr.cc/Conferences/2026/FinancialAssistance",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://chiir2026.github.io/sponsorship.html",
+    "title": "CHIIR 2026",
+    "url": "https://chiir2026.github.io/sponsorship.html",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://academia.stackexchange.com/questions/9792/why-do-phd-students-volunteer-at-conferences",
+    "title": "Why do PhD students volunteer at conferences?",
+    "url": "https://academia.stackexchange.com/questions/9792/why-do-phd-students-volunteer-at-conferences",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://aaai.org/conference/aaai/aaai07/aaai07student/",
+    "title": "AAAI-07: Student Programs",
+    "url": "https://aaai.org/conference/aaai/aaai07/aaai07student/",
+    "author": null,
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://vissv.github.io/",
+    "title": "IEEE VIS SV",
+    "url": "https://vissv.github.io/",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://www.ai4development.ai/student-volunteers",
+    "title": "Student Volunteers",
+    "url": "https://www.ai4development.ai/student-volunteers",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://ieee-region6.org/2025/ieee-new-era-ai-program-and-early-registration/",
+    "title": "IEEE New Era AI Program and Early Registration - IEEE Region 6",
+    "url": "https://ieee-region6.org/2025/ieee-new-era-ai-program-and-early-registration/",
+    "publishedDate": "2025-11-25T00:00:00.000Z",
+    "author": "Ed Perkins",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://chi2024.acm.org/organizing/student-volunteering/",
+    "title": "Student Volunteering – CHI 2024",
+    "url": "https://chi2024.acm.org/organizing/student-volunteering/",
+    "publishedDate": "2025-01-01T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://2023.aclweb.org/calls/volunteers",
+    "title": "Student Volunteer Program",
+    "url": "https://2023.aclweb.org/calls/volunteers",
+    "publishedDate": "2024-01-01T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://2026.eacl.org/calls/student-volunteers/",
+    "title": "Call for Student Volunteers -",
+    "url": "https://2026.eacl.org/calls/student-volunteers/",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://facctconference.org/2024/cfv",
+    "title": "ACM FAccT 2024 Call for Volunteers",
+    "url": "https://facctconference.org/2024/cfv",
+    "publishedDate": "2025-07-02T00:00:00.000Z",
+    "author": "",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://2024.naacl.org/calls/volunteers",
+    "title": "Call For NAACL 2024 Volunteers",
+    "url": "https://2024.naacl.org/calls/volunteers",
+    "publishedDate": "2024-05-13T00:00:00.000Z",
+    "author": "Volunteer Chairs",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://2025.naacl.org/calls/volunteers",
+    "title": "Call For NAACL 2025 Volunteers",
+    "url": "https://2025.naacl.org/calls/volunteers",
+    "publishedDate": "2025-03-21T00:00:00.000Z",
+    "author": "Volunteer Chairs",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://ieee-region6.org/2025/ieee-new-era-ai-world-leaders-summit-2025-call-for-speakers/",
+    "title": "IEEE New Era AI World Leaders Summit 2025 - Call for Speakers - IEEE Region 6",
+    "url": "https://ieee-region6.org/2025/ieee-new-era-ai-world-leaders-summit-2025-call-for-speakers/",
+    "publishedDate": "2025-08-31T00:00:00.000Z",
+    "author": "Ed Perkins",
+    "query": "AI conference volunteer student benefits"
+  },
+  {
+    "id": "https://www.washington.edu/undergradresearch/fellowships-institutes-awards/cta/",
+    "title": "Undergraduate Research Conference Travel Award",
+    "url": "https://www.washington.edu/undergradresearch/fellowships-institutes-awards/cta/",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.washington.edu/undergradresearch/student-resources/communicating-your-research/urcta/",
+    "title": "Conference Travel Award",
+    "url": "https://www.washington.edu/undergradresearch/student-resources/communicating-your-research/urcta/",
+    "publishedDate": "2024-05-02T00:00:00.000Z",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.cur.org/membership-community/honors-awards/student-awards/",
+    "title": "Student Awards",
+    "url": "https://www.cur.org/membership-community/honors-awards/student-awards/",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://sc.edu/about/offices_and_divisions/undergraduate_research/apply_for_funding/our_funding/conference-travel/",
+    "title": "Undergraduate Research Conference Presentation Grant - Undergraduate Research",
+    "url": "https://sc.edu/about/offices_and_divisions/undergraduate_research/apply_for_funding/our_funding/conference-travel/",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://urc.ucdavis.edu/travel-awards",
+    "title": "Undergraduate travel awards",
+    "url": "https://urc.ucdavis.edu/travel-awards",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergraduates.utexas.edu/academics/undergraduate-research/scholarships-awards/research-travel-awards",
+    "title": "Research Travel Awards",
+    "url": "https://undergraduates.utexas.edu/academics/undergraduate-research/scholarships-awards/research-travel-awards",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://behrend.psu.edu/research-outreach/student-research/undergrad-conference-travel-grants",
+    "title": "Undergraduate Conference Travel Grants",
+    "url": "https://behrend.psu.edu/research-outreach/student-research/undergrad-conference-travel-grants",
+    "publishedDate": "2025-01-01T00:00:00.000Z",
+    "author": "The Pennsylvania State University © 2025",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergradresearch.wustl.edu/conference-travel-award",
+    "title": "Conference Travel Award | Office of Undergraduate Research",
+    "url": "https://undergradresearch.wustl.edu/conference-travel-award",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergradcollege.utexas.edu/academics/undergraduate-research/scholarships-awards/research-travel-awards",
+    "title": "Research Travel Awards",
+    "url": "https://undergradcollege.utexas.edu/academics/undergraduate-research/scholarships-awards/research-travel-awards",
+    "publishedDate": "2025-02-24T00:00:00.000Z",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.southwestern.edu/undergraduate-research/undergraduate-research-and-creative-works-travel-awards/",
+    "title": "Undergraduate Research and Creative Works Travel Awards",
+    "url": "https://www.southwestern.edu/undergraduate-research/undergraduate-research-and-creative-works-travel-awards/",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://urop.gatech.edu/pura-travel",
+    "title": "Travel Awards |  Undergraduate Research Opportunities",
+    "url": "https://urop.gatech.edu/pura-travel",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.sandiego.edu/ugresearch/students/travel-awards.php",
+    "title": "Travel Awards - Undergraduate Research",
+    "url": "https://www.sandiego.edu/ugresearch/students/travel-awards.php",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergraduateresearch.princeton.edu/funding/academic-conferences",
+    "title": "Academic Conferences",
+    "url": "https://undergraduateresearch.princeton.edu/funding/academic-conferences",
+    "publishedDate": "2024-09-12T00:00:00.000Z",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://curf.ku.edu/undergraduate-research-travel-awards",
+    "title": "Undergraduate Research Travel Awards",
+    "url": "https://curf.ku.edu/undergraduate-research-travel-awards",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://sc.edu/about/offices_and_divisions/undergraduate_research/funding_opportunities/our_funding/conference-travel/",
+    "title": "Undergraduate Research Conference Presentation Grant - Undergraduate Research | University of South Carolina",
+    "url": "https://sc.edu/about/offices_and_divisions/undergraduate_research/funding_opportunities/our_funding/conference-travel/",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergradresearch.northwestern.edu/funding/ctg/",
+    "title": "Conference Travel Grants (CTG)",
+    "url": "https://undergradresearch.northwestern.edu/funding/ctg/",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://fsu-daart.smapply.us/prog/sga_student_department_of_academic_affairs_research_travel_grant_",
+    "title": "SGA Student Department of Academic Affairs Research Travel Grant  - Department of Academic Affairs' Research Travel Grant",
+    "url": "https://fsu-daart.smapply.us/prog/sga_student_department_of_academic_affairs_research_travel_grant_",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.cur.org/membership-community/divisions/social-sciences-division/divisions-social-sciences-undergraduate-conference-awards/",
+    "title": "Divisions - Social Sciences Undergraduate Conference ...",
+    "url": "https://www.cur.org/membership-community/divisions/social-sciences-division/divisions-social-sciences-undergraduate-conference-awards/",
+    "author": null,
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://sciences.ugresearch.ucla.edu/resources/travel-grants/",
+    "title": "Undergraduate Research Center—Sciences | Travel Grants for Conferences",
+    "url": "https://sciences.ugresearch.ucla.edu/resources/travel-grants/",
+    "publishedDate": "2025-01-01T00:00:00.000Z",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergraduateresearch.utoronto.ca/conferences/academic-travel-fund/",
+    "title": "Conference and Research Travel Fund - U of T Undergraduate Research Hub",
+    "url": "https://undergraduateresearch.utoronto.ca/conferences/academic-travel-fund/",
+    "publishedDate": "2024-01-05T00:00:00.000Z",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.urp.udel.edu/travel-award/",
+    "title": "Conference & Travel Award - Undergraduate Research Program",
+    "url": "https://www.urp.udel.edu/travel-award/",
+    "publishedDate": "2023-01-17T00:00:00.000Z",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://research.usu.edu/ur/cur-travel-funding",
+    "title": "CUR Travel Funding | Office of Research Undergraduate Research | USU",
+    "url": "https://research.usu.edu/ur/cur-travel-funding",
+    "author": "Utah State University",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergraduateresearch.wvu.edu/research-opportunities/funding-your-research/travel-support-request",
+    "title": "Travel Support Request",
+    "url": "https://undergraduateresearch.wvu.edu/research-opportunities/funding-your-research/travel-support-request",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://undergraduateresearch.wsu.edu/funding/travel-awards/",
+    "title": "Travel Awards & Conference Preparation | Office of Undergraduate Research |  Washington State University",
+    "url": "https://undergraduateresearch.wsu.edu/funding/travel-awards/",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://www.uidaho.edu/research/office-undergraduate-research/fund-your-research",
+    "title": "Undergraduate research support and funding | University of Idaho",
+    "url": "https://www.uidaho.edu/research/office-undergraduate-research/fund-your-research",
+    "author": "",
+    "query": "undergraduate research conference travel award"
+  },
+  {
+    "id": "https://apnews.com/press-release/ein-presswire-newsmatics/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit-750ebaadb398e55690ed16713cec474f",
+    "title": "IOScholarships Launches Travel Award to Send Student to Inaugural STEAM Innovation Summit",
+    "url": "https://apnews.com/press-release/ein-presswire-newsmatics/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit-750ebaadb398e55690ed16713cec474f",
+    "publishedDate": "2026-02-26T16:32:04.000Z",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://embarccollective.com/meet-the-2025-tech-meetup-group-scholarship-recipients/",
+    "title": "Meet the 2025 Tech Meetup Group Scholarship Recipients",
+    "url": "https://embarccollective.com/meet-the-2025-tech-meetup-group-scholarship-recipients/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.meetup.com/silicon-valley-engineering-council-svec-meetup-group/",
+    "title": "Silicon Valley Engineering Council (SVEC) Meetup Group",
+    "url": "https://www.meetup.com/silicon-valley-engineering-council-svec-meetup-group/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.meetup.com/bayareadh/",
+    "title": "Bay Area DH - Meetup",
+    "url": "https://www.meetup.com/bayareadh/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://medium.com/@karenchurch/crowdsourcing-women-in-tech-programs-events-in-the-bay-area-b4de28233522",
+    "title": "Crowdsourcing Women In Tech Programs & Events in the Bay Area",
+    "url": "https://medium.com/@karenchurch/crowdsourcing-women-in-tech-programs-events-in-the-bay-area-b4de28233522",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.theninthsemester.com/blog/qj7dfnz29mbcdnjmdtdrkoq4myfoqi",
+    "title": "4 Fully Funded Tech Conference Scholarships for Students & Early-Career Professionals (2025–2026) — The Ninth Semester | The one they didn't warn you about",
+    "url": "https://www.theninthsemester.com/blog/qj7dfnz29mbcdnjmdtdrkoq4myfoqi",
+    "publishedDate": "2025-09-06T00:00:00.000Z",
+    "author": "Written By  Jade Walters",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.ciofund.org/",
+    "title": "Home | CIO Scholarship Fund",
+    "url": "https://www.ciofund.org/",
+    "publishedDate": "2024-10-11T00:00:00.000Z",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.womentech.net/women-in-tech-san-francisco",
+    "title": "Women in Tech San Francisco - WomenTech Network",
+    "url": "https://www.womentech.net/women-in-tech-san-francisco",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://missionbit.org/",
+    "title": "Mission Bit - Bridging the Youth Tech Divide",
+    "url": "https://missionbit.org/",
+    "publishedDate": "2023-03-18T00:00:00.000Z",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://sfruby.com/scholarship/",
+    "title": "Scholarship Program - San Francisco Ruby Conference 2025",
+    "url": "https://sfruby.com/scholarship/",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://blogs.sjsu.edu/newsroom/2026/catapulting-innovation-into-silicon-valley-and-beyond-sjsu-launches-new-entrepreneurial-ecosystem/",
+    "title": "Catapulting innovation into Silicon Valley and beyond: SJSU launches new Entrepreneurial Ecosystem",
+    "url": "https://blogs.sjsu.edu/newsroom/2026/catapulting-innovation-into-silicon-valley-and-beyond-sjsu-launches-new-entrepreneurial-ecosystem/",
+    "publishedDate": "2026-02-23T23:17:04.000Z",
+    "author": "SJSU Editor",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.bonfirevc.com/news/san-francisco-tech-startup-events",
+    "title": "Top tech & startup events in San Francisco, CA [2025 & 2026]",
+    "url": "https://www.bonfirevc.com/news/san-francisco-tech-startup-events",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.globenewswire.com/news-release/2026/02/24/3243948/0/en/The-Stuart-Piltch-Scholarship-for-Entrepreneurs-Announces-2026-Call-for-Undergraduate-Innovators.html",
+    "title": "The Stuart Piltch Scholarship for Entrepreneurs Announces 2026 Call for Undergraduate Innovators",
+    "url": "https://www.globenewswire.com/news-release/2026/02/24/3243948/0/en/The-Stuart-Piltch-Scholarship-for-Entrepreneurs-Announces-2026-Call-for-Undergraduate-Innovators.html",
+    "publishedDate": "2026-02-24T18:25:42.000Z",
+    "author": "Stuart Piltch Scholarship",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://careers.linkedin.com/pathways-programs/possibilities-scholarship",
+    "title": "Possibilities in Tech Scholarship",
+    "url": "https://careers.linkedin.com/pathways-programs/possibilities-scholarship",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://haas.berkeley.edu/undergrad/community/blog/posts/the-haas-network-and-bay-area-tech-events/",
+    "title": "The Haas Network and Bay Area Tech Events",
+    "url": "https://haas.berkeley.edu/undergrad/community/blog/posts/the-haas-network-and-bay-area-tech-events/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://devmission.org/",
+    "title": "CREATING THE NEXT GENERATION OF TECH TALENT",
+    "url": "https://devmission.org/",
+    "publishedDate": "2019-10-21T00:00:00.000Z",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://womenwhocode.com/blog/nina-bachvarova-recipient-of-wwcode-gschool-scholarship/",
+    "title": "Nina Bachvarova Recipient of WWCode-gSchool Scholarship > Women Who Code",
+    "url": "https://womenwhocode.com/blog/nina-bachvarova-recipient-of-wwcode-gschool-scholarship/",
+    "publishedDate": "2014-10-31T00:00:00.000Z",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.instagram.com/reel/DUGeoP2gAJ_/",
+    "title": "The Bay Area is in need of low-cost housing! This year's challenge is ...",
+    "url": "https://www.instagram.com/reel/DUGeoP2gAJ_/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.reddit.com/r/cscareerquestions/comments/3b5y4f/what_actually_happens_at_meet_ups_do_you_go_alone/",
+    "title": "What actually happens at meet ups? Do you go alone? Do ... - Reddit",
+    "url": "https://www.reddit.com/r/cscareerquestions/comments/3b5y4f/what_actually_happens_at_meet_ups_do_you_go_alone/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://programs.code2040.org/pages/tech_trek",
+    "title": "Tech Trek Program",
+    "url": "https://programs.code2040.org/pages/tech_trek",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.theoaklandarena.com/news/detail/college-scholarship-program",
+    "title": "Bay Area Students Awarded College Scholarships | Oakland Arena",
+    "url": "https://www.theoaklandarena.com/news/detail/college-scholarship-program",
+    "author": "Oakland Arena",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.meetup.com/sports-and-tech-meetup-bay-area/",
+    "title": "Sports and tech meetup (bay area)",
+    "url": "https://www.meetup.com/sports-and-tech-meetup-bay-area/",
+    "author": null,
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
+    "title": "3 days left: Save up to $680 on your Disrupt 2026 ticket",
+    "url": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
+    "publishedDate": "2026-02-25T15:00:00.000Z",
+    "author": "TechCrunch Events",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://techtonica.org/",
+    "title": "#BridgeTheTechGap",
+    "url": "https://techtonica.org/",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://www.smash.org/",
+    "title": "Expanding Innovation In  STEM",
+    "url": "https://www.smash.org/",
+    "publishedDate": "2019-09-09T00:00:00.000Z",
+    "author": "",
+    "query": "tech meetup scholarship student Bay Area"
+  },
+  {
+    "id": "https://oyaop.com/tag/fully-funded-international-conference-in-usa/",
+    "title": "fully funded international conference in USA Archives - OYA Opportunities",
+    "url": "https://oyaop.com/tag/fully-funded-international-conference-in-usa/",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://apnews.com/press-release/ein-presswire-newsmatics/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit-750ebaadb398e55690ed16713cec474f",
+    "title": "IOScholarships Launches Travel Award to Send Student to Inaugural STEAM Innovation Summit",
+    "url": "https://apnews.com/press-release/ein-presswire-newsmatics/ioscholarships-launches-travel-award-to-send-student-to-inaugural-steam-innovation-summit-750ebaadb398e55690ed16713cec474f",
+    "publishedDate": "2026-02-26T16:32:04.000Z",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.theaccac.org/acc-leadership-symposium",
+    "title": "ACC Leadership Symposium | Fully Funded Student Leadership Conference",
+    "url": "https://www.theaccac.org/acc-leadership-symposium",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.oneyoungworld.com/scholarships",
+    "title": "Our Scholarships | One Young World",
+    "url": "https://www.oneyoungworld.com/scholarships",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.theninthsemester.com/blog/9paidtravelearlycareer",
+    "title": "9 Fully Funded Travel Programs for Students & Early-Career ...",
+    "url": "https://www.theninthsemester.com/blog/9paidtravelearlycareer",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.theninthsemester.com/blog/qj7dfnz29mbcdnjmdtdrkoq4myfoqi",
+    "title": "4 Fully Funded Tech Conference Scholarships for Students & Early-Career Professionals (2025–2026) — The Ninth Semester | The one they didn't warn you about",
+    "url": "https://www.theninthsemester.com/blog/qj7dfnz29mbcdnjmdtdrkoq4myfoqi",
+    "publishedDate": "2025-09-06T00:00:00.000Z",
+    "author": "Written By  Jade Walters",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.linkedin.com/pulse/fully-funded-conferences-trainings-vpaze",
+    "title": "Fully Funded Conferences and Trainings for Young Changemakers ...",
+    "url": "https://www.linkedin.com/pulse/fully-funded-conferences-trainings-vpaze",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://opportunitiescorners.com/category/conferences/",
+    "title": "Fully Funded International Conferences",
+    "url": "https://opportunitiescorners.com/category/conferences/",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.wemakescholars.com/conferences-travel-grants-scholarships-for-international-students-in-united-states",
+    "title": "7+ Conferences & Travel Grants Scholarships in United States Of ...",
+    "url": "https://www.wemakescholars.com/conferences-travel-grants-scholarships-for-international-students-in-united-states",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.conferencealert.com/fully-funded-international-conference",
+    "title": "Fully Funded International Conferences 2026",
+    "url": "https://www.conferencealert.com/fully-funded-international-conference",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.heysuccess.com/student-conferences-and-events/united-states-of-america",
+    "title": "Student Conferences And Events in United States of America",
+    "url": "https://www.heysuccess.com/student-conferences-and-events/united-states-of-america",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.iasociety.org/conferences/aids2026/take-part/scholarships",
+    "title": "Scholarships | AIDS 2026 | International AIDS Society (IAS)",
+    "url": "https://www.iasociety.org/conferences/aids2026/take-part/scholarships",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://jkcf.org/cooke-scholar-community/conference-and-travel-stipend",
+    "title": "Conference and Travel Stipend - Jack Kent Cooke Foundation",
+    "url": "https://jkcf.org/cooke-scholar-community/conference-and-travel-stipend",
+    "publishedDate": "2022-03-04T00:00:00.000Z",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://ans.org/scholarships/travel",
+    "title": "ANS Conference Travel Grant -- ANS",
+    "url": "https://ans.org/scholarships/travel",
+    "publishedDate": "2025-09-08T00:00:00.000Z",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://siam.org/conferences/conference-support/siam-student-travel-awards",
+    "title": "SIAM Student Travel Awards",
+    "url": "https://siam.org/conferences/conference-support/siam-student-travel-awards",
+    "publishedDate": "2025-05-11T00:00:00.000Z",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.hks.harvard.edu/educational-programs/undergraduate-opportunities/public-policy-leadership-conference",
+    "title": "Public Policy Leadership Conference | Harvard Kennedy School",
+    "url": "https://www.hks.harvard.edu/educational-programs/undergraduate-opportunities/public-policy-leadership-conference",
+    "author": null,
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://wjmc.gmu.edu/students/",
+    "title": "Students – The Washington Journalism and Media Conference",
+    "url": "https://wjmc.gmu.edu/students/",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://cikm2024.org/nsf-student-travel-awards",
+    "title": "NSF Student Travel Awards – CIKM 2024 – International Conference on Information and Knowledge Management",
+    "url": "https://cikm2024.org/nsf-student-travel-awards",
+    "publishedDate": "2024-03-01T00:00:00.000Z",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://maa.org/resource/maa-mathfest-student-scholars-travel-grants/",
+    "title": "Mathematical Association of America",
+    "url": "https://maa.org/resource/maa-mathfest-student-scholars-travel-grants/",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://mucuruzi.com/2025-us-government-techgirls-summer-exchange-program-fully-funded-deadline-6-december-2024/",
+    "title": "2025 US Government TechGirls Summer Exchange Program | Fully Funded: (Deadline 6 December, 2024) | mucuruzi.com",
+    "url": "https://mucuruzi.com/2025-us-government-techgirls-summer-exchange-program-fully-funded-deadline-6-december-2024/",
+    "publishedDate": "2024-10-15T00:00:00.000Z",
+    "author": "juju",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.koco.com/article/oklahoma-students-washington-senate-youth-program/70485571",
+    "title": "Oklahoma students head to Washington for Senate youth program",
+    "url": "https://www.koco.com/article/oklahoma-students-washington-senate-youth-program/70485571",
+    "publishedDate": "2026-02-24T23:42:00.000Z",
+    "author": "Abigail Ogle",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.globenewswire.com/news-release/2026/02/26/3245917/0/en/Regeneron-Renews-Sponsorship-of-the-Regeneron-Science-Talent-Search-Through-2036-Committing-an-Additional-150-Million-to-Empower-the-Next-Generation-of-Science-and-Technology-Leade.html",
+    "title": "Regeneron Renews Sponsorship of the Regeneron Science Talent Search Through 2036, Committing an Additional $150 Million to Empower the Next Generation of Science and Technology Leaders",
+    "url": "https://www.globenewswire.com/news-release/2026/02/26/3245917/0/en/Regeneron-Renews-Sponsorship-of-the-Regeneron-Science-Talent-Search-Through-2036-Committing-an-Additional-150-Million-to-Empower-the-Next-Generation-of-Science-and-Technology-Leade.html",
+    "publishedDate": "2026-02-26T17:03:00.000Z",
+    "author": "Society For Science",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.rgj.com/press-release/story/136776/sandra-day-oconnor-institute-invites-7th-8th-grade-students-to-apply-for-camp-oconnor-usa-2026/",
+    "title": "Sandra Day O'Connor Institute Invites 7th & 8th Grade Students to Apply for Camp O'Connor USA 2026",
+    "url": "https://www.rgj.com/press-release/story/136776/sandra-day-oconnor-institute-invites-7th-8th-grade-students-to-apply-for-camp-oconnor-usa-2026/",
+    "publishedDate": "2026-02-24T15:35:25.000Z",
+    "author": "Sandra Day O'Connor Institute",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://www.sacnas.org/conference/travel-scholarships",
+    "title": "Travel Scholarships",
+    "url": "https://www.sacnas.org/conference/travel-scholarships",
+    "author": "",
+    "query": "fully funded student conference USA"
+  },
+  {
+    "id": "https://ncga.com/key-issues/other-topics/scholarship-programs",
+    "title": "Scholarships",
+    "url": "https://ncga.com/key-issues/other-topics/scholarship-programs",
+    "author": "National Corn Growers Association",
+    "query": "fully funded student conference USA"
   }
-}
+]
