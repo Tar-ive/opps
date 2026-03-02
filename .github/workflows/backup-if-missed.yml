@@ -1,0 +1,46 @@
+name: Backup if Daily Opps Missed
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Run after the OpenClaw cron time (08:00 America/Chicago).
+    # This is 14:00 UTC during CST, 13:00 UTC during CDT.
+    # Keep UTC here; adjust seasonally if you want exact.
+    - cron: "30 14 * * *"
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+
+      - name: Backup if missed
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+        run: |
+          python3 scripts/backup_if_missed.py --tz America/Chicago --min-items 1
+
+      - name: Commit + push (if changed)
+        run: |
+          git config user.name "opps-backup-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Backup opps update $(date -u +%F)" || exit 0
+          git pull --rebase
+          git push
