@@ -27,6 +27,19 @@ Purpose: lightweight, append-only trace of what automation touched in this repo.
   - short note
 ```
 
+## Helper command example
+
+```bash
+python3 scripts/trace_append.py \
+  --run-id run_2026_03_02_abc123 \
+  --stage worker \
+  --result ok \
+  --read workers/person_research_worker.py \
+  --write artifacts/2026-03-02-worker-output.json \
+  --commit artifacts/2026-03-02-worker-output.json \
+  --note "Generated sanitized worker output"
+```
+
 ## Seed entry
 
 ## 2026-03-02T02:45:00Z | run_id=manual-bootstrap | stage=ops-maintenance | result=ok
