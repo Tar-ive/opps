@@ -2,7 +2,7 @@
 """Render personalized WhatsApp message bodies from a validated opps update.
 
 Inputs:
-- profiles/recipients.json
+- Private recipients file via env var `PRIVATE_RECIPIENTS_PATH` (VM-only, never committed)
 - updates/YYYY-MM-DD.md (or a machine-readable JSON in the future)
 
 This is a *starter* renderer: today it just wraps the same links with different
@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -29,7 +30,10 @@ def main() -> None:
     ap.add_argument("--date", required=True)
     args = ap.parse_args()
 
-    profiles = json.loads((ROOT / "profiles" / "recipients.json").read_text(encoding="utf-8"))
+    private_path = Path(os.environ.get("PRIVATE_RECIPIENTS_PATH", "")).expanduser()
+    if not private_path or not private_path.exists():
+        raise SystemExit("Missing PRIVATE_RECIPIENTS_PATH (must point to VM-private recipients JSON)")
+    profiles = json.loads(private_path.read_text(encoding="utf-8"))
     md_path = ROOT / "updates" / f"{args.date}.md"
     md = md_path.read_text(encoding="utf-8") if md_path.exists() else ""
 
