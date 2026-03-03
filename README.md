@@ -2,6 +2,30 @@
 
 A lightweight, daily-updated tracker of **competitions / challenges / grants / programs** where you can submit projects and potentially win prizes (e.g., *10,000 AIdeas*, *NVIDIA GTC Golden Ticket*, hackathons, startup challenges, research grants).
 
+## Powered by Exa API ❤️
+
+This project uses **Exa** as its sole search provider — no other search APIs. Here's how:
+
+### Why Exa?
+- **Neural search** instead of keyword matching — understands intent
+- **Fresh results** with automatic date filtering
+- **Autoprompt** — lets Exa optimize queries automatically
+- **Fast, reliable, and cost-effective** for agentic workloads
+
+### Usage in this project
+- **Search queries per recipient:** 5-8 personalized queries generated per user using few-shot prompting
+- **Exa API calls:** Direct HTTP POST to `https://api.exa.ai/search`
+- **numResults:** 8 results per query
+- **useAutoprompt:** enabled for smarter result ranking
+- **startPublishedDate:** filters to last 30 days for fresh opportunities
+- **Total searches/day:** ~40-50 queries (8 recipients × 5-8 queries each)
+- **No contents endpoint** — we fetch search result URLs separately with web_fetch for evidence extraction
+
+### Other Data Sources
+- **Hacker News Jobs** — Firebase API for early-stage job postings
+- **Google Sheets** — Public grants/fellowships spreadsheet (CSV export)
+- **Substack** — Harsehaj's newsletter as fallback lead
+
 ## How updates work
 - A daily cron job runs web searches, curates a short list, and writes a dated update in `updates/`.
 - Each update includes: name, deadline (if found), prize/benefit, eligibility/notes, and link.
