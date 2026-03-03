@@ -2,13 +2,13 @@
 
 A lightweight, daily-updated tracker of **competitions / challenges / grants / programs** where you can submit projects and potentially win prizes (e.g., *10,000 AIdeas*, *NVIDIA GTC Golden Ticket*, hackathons, startup challenges, research grants).
 
-## Powered by Exa API ❤️
+## Powered by Exa API 
 
-This project uses **Exa** as its sole search provider — no other search APIs. Here's how:
+This project uses **Exa** as its search provider — after repetedly trying other providers like Brave or DuckDuckGo. Here's why:
 
 ### Why Exa?
-- **Neural search** instead of keyword matching — understands intent
-- **Fresh results** with automatic date filtering
+- **Neural search** instead of keyword matching — understands intent much better than Brave
+- **Fresh results** with automatic date filtering - Found that Exa's searches are ranked better, in Brave I needed a reranker of my own
 - **Autoprompt** — lets Exa optimize queries automatically
 - **Fast, reliable, and cost-effective** for agentic workloads
 
